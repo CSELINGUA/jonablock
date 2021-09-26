@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcprov-ext-jdk14-169">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/bcprov-ext-jdk14-169.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
